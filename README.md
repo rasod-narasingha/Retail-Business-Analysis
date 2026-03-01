@@ -30,6 +30,8 @@ NumPy
 
 📊 2. Data Visualization (Power BI)
 
+<img src ='https://github.com/rasod-narasingha/Retail-Business-Analysis/blob/main/Retail.png'>
+
 The cleaned dataset was used to build an interactive dashboard to monitor revenue performance and operational trends.
 
 Insights include:
@@ -50,7 +52,7 @@ Power Query & DAX – Data modeling & KPI calculations
 📥 Project Files Status
 
 ✅ Cleaned dataset (Python processed) — uploading
-🚧 Power BI dashboard (.pbix) — coming soon
+🚧 Power BI dashboard (.pbix) 
 ✅ Dashboard preview image available
 
 📈 Business Value
